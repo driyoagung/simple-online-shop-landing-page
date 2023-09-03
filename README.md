@@ -3,9 +3,9 @@
 ##This is a modified website that i made from [Bedimcode](https://www.youtube.com/@Bedimcode)
 ## [Watch it on youtube](https://youtu.be/RTIueV7zERY)
 
-### Responsive Christmas Landing Page
+### Responsive Online Shop Landing Page
 
-- Responsive Christmas Landing Page Using HTML CSS And JavaScript
+- Responsive Online Shop Landing Page Using HTML CSS And JavaScript
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
 - Includes a dark and light mode.
