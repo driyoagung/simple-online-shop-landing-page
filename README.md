@@ -1,6 +1,6 @@
 # Responsive Online Shop Landing Page
 
-##This is a modified website that i made from [Bedimcode](https://www.youtube.com/@Bedimcode)
+This is a modified website that i made from [Bedimcode](https://www.youtube.com/@Bedimcode)
 ## [Watch it on youtube](https://youtu.be/RTIueV7zERY)
 
 ### Responsive Online Shop Landing Page
